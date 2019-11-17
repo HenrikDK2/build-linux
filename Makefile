@@ -1,8 +1,8 @@
 KERNEL_VERSION=5.3.9
 KERNEL_URL=https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-$(KERNEL_VERSION).tar.xz
 
-BUSYBOX_VERSION=1.31.1
-BUSYBOX_URL=https://busybox.net/downloads/busybox-$(BUSYBOX_VERSION).tar.bz2
+BUSYBOX_VERSION=1.26.2
+BUSYBOX_URL=https://www.busybox.net/downloads/busybox-$(BUSYBOX_VERSION).tar.bz2
 
 
 all: fs.tar
